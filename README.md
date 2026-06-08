@@ -1,7 +1,7 @@
-# python-internship-task1
+# python-task1
 Python Internship Task 1 Solutions
 
-# Python Programming Internship Task 1
+# Python Programming Task 1
 This repository contains solutions for:
 
 1. Sum of Two Numbers
